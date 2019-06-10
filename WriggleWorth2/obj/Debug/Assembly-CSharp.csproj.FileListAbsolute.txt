@@ -1,0 +1,2 @@
+D:\Wormscape\WriggleWorth2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Wormscape\WriggleWorth2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
